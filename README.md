@@ -17,8 +17,8 @@ Cocok untuk belajar Bash scripting dan dasar keamanan file di Linux.
 ## Instalasi
 Clone repo ini:
 ```bash
-- git clone https://github.com/zerobruhman/Enkripsi-File-menggunakan-gpg.git
-- cd Enkripsi-File-menggunakan-gpg
-- chmod +x enkripsi_file.sh
-- ./enkripsi_file.sh
+git clone https://github.com/zerobruhman/Enkripsi-File-menggunakan-gpg.git
+cd Enkripsi-File-menggunakan-gpg
+chmod +x enkripsi_file.sh
+./enkripsi_file.sh
 
