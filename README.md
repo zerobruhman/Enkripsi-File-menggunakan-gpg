@@ -16,9 +16,8 @@ Fitur
 
 Instalasi
 Clone repo ini:
-buka terminal dan jalankan:
-git clone https://github.com/zerobruhman/Enkripsi-File-menggunakan-gpg.git
-cd Enkripsi-File-menggunakan-gpg
-chmod +x enkripsi_file.sh
-./enkripsi_file.sh
+- git clone https://github.com/zerobruhman/Enkripsi-File-menggunakan-gpg.git
+- cd Enkripsi-File-menggunakan-gpg
+- chmod +x enkripsi_file.sh
+- ./enkripsi_file.sh
 
